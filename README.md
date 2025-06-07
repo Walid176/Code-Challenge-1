@@ -43,3 +43,6 @@ License
 ## Langauges used
 Only JavaScript was used in this code challenge
 
+
+Authored by: Walid Khalid
+
