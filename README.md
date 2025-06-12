@@ -7,21 +7,9 @@ A collection of 3 JavaScript challenges; calculating tea ingredients, estimating
 
 ## Project Structure
 
-This repository is organized by challenge, with each challenge in its own folder:
+This work contains each challenge folder, a license file and a README.md file.
 
-Code-Challenge-1
-├── chaiCalculator
-│   └── chai.js
-├── bodaFareCalculator
-│   └── fare.js
-├── mobileMoneyEstimator
-│   └── fee.js
-├── README.md
-└── LICENSE
-
-
-
-
+The challenges are;
 chaiCalculator  
   A simple calculator to determine the basic ingredients needed to make a specific number of cups of Kenyan chai.
 
@@ -30,6 +18,8 @@ bodaFareCalculator
 
 mobileMoneyEstimator
   Calculates the transaction fee for sending money using mobile money, with fee rules and limits.
+
+  
 
 Each folder contains a single .js file (e.g. chai.js) that holds the solution.
 
