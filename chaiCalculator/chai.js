@@ -28,6 +28,6 @@ const numberOfCups = Number(userInput);
 if (numberOfCups > 0) {
   calculateChaiIngredients(numberOfCups);
 } else {
-  console.log("Please enter a valid positive number.");
+  console.log("Please enter a valid number of cups; either 1 or more.");
 }
 
