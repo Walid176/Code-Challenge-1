@@ -30,6 +30,6 @@ const amountToSend = Number(userInput);
 if (amountToSend > 0) {
   estimateTransactionFee(amountToSend);
 } else {
-  console.log("Please enter a valid positive number.");
+  console.log("Please enter a valid amount of money in KES.");
 }
 
