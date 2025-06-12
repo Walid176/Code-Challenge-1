@@ -24,6 +24,6 @@ const distanceInKm = Number(userInput);
 if (distanceInKm > 0) {
   calculateBodafare(distanceInKm);
 } else {
-  console.log("Please enter a valid positive number.");
+  console.log("Please enter a valid distance in kilometers.");
 }
 
